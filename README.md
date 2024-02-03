@@ -5,6 +5,7 @@ Rosy é uma talentosa professora do Ensino Médio que já ganhou muitos prêmios
 Tudo ocorreu bem para Rosy até o dia da prova. Acostumada a dar notas de 0 (zero) a 100 (cem), ela fez o mesmo na primeira prova dos alunos da Inglaterra. No entanto, os alunos acharam estranho, pois na Inglaterra o sistema de notas e diferente: as notas devem ser dadas como conceitos de A a E. O conceito A é o mais alto, enquanto o conceito E é o mais baixo.
 
 Conversando com outros professores, ela recebeu a sugestão de utilizar a seguinte tabela. relacionando as notas numéricas com as notas de conceitos:
+
 * Notas    | Conceito
 *    0     | E
 * 01 a 35  | D     
@@ -24,4 +25,10 @@ A primeira linha de entrada indica o número de casos de teste C (1 ≤C≤100).
 ## Saida
 
 Seu programa deve imprimir uma letra (A, B, C, D, ou E em majúsculas) representando o conceito correspondente à nota dada na entrada em uma linha para cada caso de teste
+
+* Exemplo de Entrada | Saida para o exemplo de entrada
+*    3     | 
+*    12    | D    
+*    87    | A  
+*    0     | E  
 
